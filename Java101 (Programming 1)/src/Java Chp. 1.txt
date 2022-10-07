@@ -1,0 +1,47 @@
+
+//Below is the .Java Hello World Template VVVVV
+public class App {
+    public static void main(String[] args) throws Exception {
+        System.out.println("Hello, World!");
+    }
+}
+
+//Programing performs functions from spreadsheets & databases; to games and more!
+//It is best to comprehend programing for the following. RESEARCH ASAP!
+//Logical flows
+//Math Procedures
+//Screen appearance
+//How information is presented
+//UI/GUI
+//Written Docs
+//Analyze, Experiment, Correct, and Redesign. That is what is needed to be perform on a first name basis
+
+//Java can run applets, and applications.
+//Java is OOPS (Object Oriated program)
+//JAVA IS CASE SENSITIVE. MIND CAPILIZATIONS FOR THE KEY WORDS!  
+//Applications being local, and applets using the web/browser to run. 
+//Then it is interpertated by a Virtual machine/JVM, and finally, executes the program!
+
+//Primitive types are the built in commands in Java 
+//int=Interger common number varible -->'a = 5'
+//char=character. Stores Character variable --> e.g 'i'; 
+//long
+//double= int, but you can specify the no. with a decimal point  --> e.g 'd = 3.2'
+
+//Period is a very important command/shortcut for java. Tells you what the varible can do.
+E.g, name --> name.toUppercase();
+//system.out.prntln() = Prints out whatever code/line(s) is within the ()
+String name = "Susan";
+system.out.prntln(name.toUppercase());
+//Semi colon ends a statement''String name = Susan;'. Similar to the Paranthesis '{', for public class. 'public class App {'
+//Method = automates strings.
+public static void addExclimationpoint(string s ) {
+//to add string together, add a + to the name of the string 's' 
+public static void addExclimationpoint(string s ) {
+    System.out.println(s+"!");
+//Be sure to call the method!
+addExclimationpoint("Hot Dogs");
+
+public static void addExclimationpoint(string s ) {
+    System.out.println(s+"!");
+//Return calls another java file
